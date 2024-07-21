@@ -8,3 +8,4 @@ pandas
 numpy
 pillow
 gensim
+spacy-en-core-web-sm
