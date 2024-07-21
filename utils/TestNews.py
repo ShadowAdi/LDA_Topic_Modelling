@@ -1,0 +1,5 @@
+news='''On June 15, 2024, Côte d'Ivoire made history by becoming the first country to administer the R21/Matrix-M malaria vaccine to children, a groundbreaking development in the battle against a disease that claimed over 600,000 lives last year, mostly among children under five.
+
+The R21-Matrix-M vaccine, developed by the University of Oxford and the Serum Institute of India, leverages Novavax’s Matrix-M™ adjuvant to enhance immune response. Prequalified by the WHO, it boasts an efficacy rate of 78%, exceeding the WHO’s 75% target, and aims to address the urgent need for malaria vaccines in endemic regions.
+
+The rollout will begin in Abidjan and expand to 38 districts, with 15 African countries expected to introduce malaria vaccines by 2024, targeting 6.6 million children. The Serum Institute of India has manufactured 25 million doses, with plans to produce 100 million annually at under $4 per dose.'''
