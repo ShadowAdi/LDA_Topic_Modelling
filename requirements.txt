@@ -1,0 +1,11 @@
+tqdm
+spacy
+gensim
+streamlit 
+scikit-learn
+scipy
+pandas 
+numpy
+pillow
+gensim
+en-core-web-sm
