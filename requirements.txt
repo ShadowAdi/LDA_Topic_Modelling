@@ -1,11 +1,9 @@
 tqdm
 spacy
 gensim
-streamlit 
+streamlit
 scikit-learn
 scipy
-pandas 
+pandas
 numpy
 pillow
-gensim
-spacy-en-core-web-sm
