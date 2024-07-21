@@ -6,4 +6,5 @@ scikit-learn
 scipy
 pandas
 numpy
+python -m spacy download en_core_web_sm
 pillow
