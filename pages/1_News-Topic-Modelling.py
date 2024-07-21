@@ -61,7 +61,6 @@ if btn:
         valid_topic_found = False
 
         for topic_num, prob in topics:
-                print(topics)
                 if prob>possibility_minimum:
                     valid_topic_found = True
                     topic_name = topic_dict.get(topic_num, f"Topic {topic_num}") 
