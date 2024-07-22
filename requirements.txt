@@ -1,5 +1,5 @@
 tqdm==4.66.4
-spacy==3.5.0
+spacy==3.0.0
 gensim==4.3.3
 streamlit==1.36.0
 scipy==1.13.1
