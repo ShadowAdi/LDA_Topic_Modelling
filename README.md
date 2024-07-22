@@ -1,3 +1,6 @@
+# This is Demo of WebApp
+[Demo](results/lda.mp4)
+
 # LDA Based Projects!!
 
 This time, I created an NLP-based project which you can use to solve a very famous problem of topic modeling in NLP with the help of the LDA model.
@@ -33,6 +36,7 @@ For each document \( d \) in the corpus:
 
 The generative process assumes that each document is generated independently of the others, and the same set of topics is used across all documents. By assuming a generative process for the data, LDA allows us to infer the latent variables that generate the observed data and discover the underlying topics in the corpus.
 
+
 ## Preprocessing for LDA
 
 LDA requires some preprocessing of the raw text data before the model can be trained. Preprocessing steps can significantly affect the quality of the results obtained from LDA. These steps include:
@@ -41,4 +45,27 @@ LDA requires some preprocessing of the raw text data before the model can be tra
 - **Lemmatization and Stemming**
 - **Tokenization**
 - **Other techniques for data preparation**
+
+### I Also used FastAPI For API Production
+There are total 5 api endpoints for news article, research topics and for getting topic dictionary
+
+
+### Here are some Images for Api
+[All Api](results\AllApi.png)
+[News Dict](results\Newsdict.png)
+[Research Post Api](results\GetResearchApi.png)
+
+
+
+
+## How to Use LDA in Your Own System
+
+To use LDA in your own system, follow these steps:
+
+### 1. Install Required Libraries
+
+You will need Python libraries such as `gensim`, `nltk`, and `spacy`. You can install these libraries using pip:
+
+```bash
+pip install gensim nltk spacy
 
