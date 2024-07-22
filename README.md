@@ -52,7 +52,9 @@ There are total 5 api endpoints for news article, research topics and for gettin
 
 ### Here are some Images for Api
 [All Api](results\AllApi.png)
+
 [News Dict](results\Newsdict.png)
+
 [Research Post Api](results\GetResearchApi.png)
 
 
