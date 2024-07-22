@@ -3,8 +3,8 @@ from spacy.lang.en.stop_words import STOP_WORDS
 nlp = spacy.load('en_core_web_sm',disable=["parser","ner"])
 nlp.Defaults.stop_words.add("say")
 from gensim import models
-lda_model = models.LdaModel.load('models\lda_model.gensim')
-research_model_lda=models.LdaModel.load("models\lda_model_research_articles.gensim")
+lda_model = models.LdaModel.load('models/lda_model.gensim')
+research_model_lda=models.LdaModel.load("models/lda_model_research_articles.gensim")
 dictinary_research=research_model_lda.id2word
 dictionary = lda_model.id2word
 

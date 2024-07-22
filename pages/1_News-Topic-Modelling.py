@@ -2,8 +2,8 @@ import streamlit as st
 from gensim import models, corpora
 from utils.textTransform import get_topics
 from utils.topicDict import topic_dict
-lda_model = models.LdaModel.load("models\lda_model.gensim")
-dictionary = corpora.Dictionary.load("models\lda_model.gensim.id2word")
+lda_model = models.LdaModel.load("models/lda_model.gensim")
+dictionary = corpora.Dictionary.load("models/lda_model.gensim.id2word")
 import time
 
 
