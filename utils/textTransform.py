@@ -1,4 +1,4 @@
-from .Basic import basic_filter
+from Basic import basic_filter
 import spacy
 from gensim import models
 lda_model = models.LdaModel.load('models\lda_model.gensim')
