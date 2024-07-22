@@ -1,12 +1,12 @@
-tqdm
-spacy
-gensim
-streamlit
-scikit-learn
-scipy
-pandas
-numpy
+tqdm==4.66.4
+spacy==3.5.0
+gensim==4.3.3
+streamlit==1.36.0
+scipy==1.13.1
+pandas==2.2.2
+numpy==1.26.4
+pillow==10.4.0
+fastapi==0.111.1
+uvicorn==0.30.3
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0-py3-none-any.whl
-pillow
-fastapi
-uvicorn
+pydantic==2.8.2
