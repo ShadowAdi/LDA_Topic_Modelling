@@ -1,9 +1,9 @@
 tqdm
-spac
-gensi
+spacy
+gensim
 streamlit
 scipy
-panda
+pandas
 numpy
 pillow
 fastapi
